@@ -1,0 +1,54 @@
+---------------------------------------------------------------------------------------------------
+Rules:          
+-  Standard 15x15 board with 100 tiles
+-  2 player game
+-  Players alternate taking turns. Each turn, a player may either:
+    o	place tiles on the board,
+    o	exchange (discard) tiles 
+    o	or pass (do nothing)
+-  The player who places the first word must ensure that it passes through the centre tile 
+    of the board
+-  Once a player has decided to play a word, they are only able to play a word or skip. 
+    Swapping of tiles is prohibited.
+
+Placing Tiles:
+-  When placing tiles on the board, all tiles must spell one main word of at least two letters, 
+    reading horizontally from left to right or vertically from top to bottom.
+-  Blank tiles are denoted by '#' in this version of the game. When playing a blank tile onto the 
+    board, player must designate its letter value by choosing an appropriate letter.
+-  The word must touch existing words either horizontally or vertically.
+-  When the main word makes additional cross-words, they are each considered to be part of 
+    the play for the purposes of scoring the play and determining its validity.
+
+Exchanging Tiles & Passing:
+-  Player may also choose to either exchange their tiles or pass. Both will result in a score of 
+   zero for the turn.
+-  Player may exchange one or more of his/her tiles for new tiles from the tile bag, as long as 
+   there are at least seven tiles in the bag. The new tiles drawn from the bag will be displayed 
+    in player's subsequent turn.
+
+End of Turn & Point System:
+-  At the end of a player's turn, the player's cumulative score will be calculated and enough tiles
+    will be drawn to bring the player's total back to seven tiles (if possible). 
+-  The score of a word is the sum of the scores of its letters, each multiplied according to any letter
+    bonus squares newly covered, then finally multiplied according to any word bonus squares 
+    newly covered. (The center square counts as a double word square.) 
+-  Each tile has a fixed point as follows:
+    o	0pts Blank '#' 				(2 Tiles)
+    o	1pt A, E, I, L, N, O, R, S, T, U	(9 A, 12 E, 9 I, 4 L, 6 N, 8 O, 6 R, 4 S, 6 T, 4 U)
+    o	2pts D, G				(4 D, 3 G)
+    o	3pts B, C, M, P				(2 Tiles each)
+    o	4pts F, H, V, W, Y			(2 Tiles each)
+    o	5pts K					(1 Tile each)
+    o	8pts J, X				(1 Tile each)
+    o	10pts Q, Z				(1 Tile each)
+-  The score of the play is the sum of the scores of its words, plus a 50-point 'bingo' bonus if 
+    all seven tiles are used
+
+Winning the Game:
+-  The game automatically ends when one player has successfully played all of his/her tiles, and 
+    all 100 tiles have been drawn.
+-  The game may also be manually concluded when either player chooses to end the game
+-  The winner is the player who has scored the most points at the end of the game.
+
+---------------------------------------------------------------------------------------------------
